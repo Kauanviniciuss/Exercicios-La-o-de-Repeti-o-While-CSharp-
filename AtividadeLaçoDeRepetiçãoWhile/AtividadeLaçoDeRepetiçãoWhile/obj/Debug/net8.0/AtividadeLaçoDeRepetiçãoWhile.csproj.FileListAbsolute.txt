@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\bin\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.exe
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\bin\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.deps.json
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\bin\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.runtimeconfig.json
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\bin\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.dll
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\bin\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.pdb
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\obj\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\obj\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\obj\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\obj\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\obj\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.dll
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\obj\Debug\net8.0\refint\AtividadeLaçoDeRepetiçãoWhile.dll
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\obj\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.pdb
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\obj\Debug\net8.0\AtividadeLaçoDeRepetiçãoWhile.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\AtividadeLaçoDeRepetiçãoWhile\AtividadeLaçoDeRepetiçãoWhile\obj\Debug\net8.0\ref\AtividadeLaçoDeRepetiçãoWhile.dll

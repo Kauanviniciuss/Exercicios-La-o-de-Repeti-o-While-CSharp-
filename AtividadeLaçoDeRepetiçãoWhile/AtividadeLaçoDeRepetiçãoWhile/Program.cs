@@ -1,0 +1,16 @@
+﻿using AtividadeLaçoDeRepetiçãoWhile;
+    using System;
+//ContagemDe1a10.Main(args);
+//SomaDeNumeros.Main(args);
+//ContagemRegressiva.Main(args);
+//Tabuada.Main(args);
+//VerificaçãoDeParidade.Main(args);
+//CalculadoraSimples.Main(args);
+//BuscaDeNumero.Main(args);
+//ContagemDeVogais.Main(args);
+//VerificaçãoDeNúmeroPrimo.Main(args);
+//ContagemDeDigitos.Main(args);
+//NumeroDeTentativas.Main(args);
+//ContarPareseImpares.Main(args);
+//SomaDosNumerosPares.Main(args);
+MultiplicaçãoPorPotênciasDe2.Main(args);
